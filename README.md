@@ -3,7 +3,7 @@
 ## Front-End Developer (React)
 
 - 🌍  I'm based in Gdansk, Poland (open for relocation)
-- 🖥️  See my portfolio at [Netlify](http://https://app.netlify.com/teams/viyaletah/sites/)
+- 🖥️  See my portfolio at [Netlify](http://app.netlify.com/teams/viyaletah/sites/)
 - ✉️  You can contact me at [viyaleta.haponava@gmail.com](mailto:viyaleta.haponava@gmail.com)
 
 ### Skills
