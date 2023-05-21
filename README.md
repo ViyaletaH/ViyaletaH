@@ -6,7 +6,7 @@
 - 🖥️  See my portfolio at [Netlify](http://app.netlify.com/teams/viyaletah/sites/)
 - ✉️  You can contact me at [viyaleta.haponava@gmail.com](mailto:viyaleta.haponava@gmail.com)
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -22,15 +22,15 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.github.com/ViyaletaH" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/viyaletah" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21778529/starboy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### 💻 Codewars:
+## 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/ViyaletaH/badges/large)
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
