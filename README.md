@@ -34,8 +34,12 @@
 
 <b>My GitHub Stats</b>
 
+<b>My GitHub Stats</b>
+
 <a href="http://www.github.com/ViyaletaH"><img src="https://github-readme-stats.vercel.app/api?username=ViyaletaH&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ViyaletaH's GitHub stats" /></a>
 
-<a href="http://www.github.com/ViyaletaH"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ViyaletaH&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViyaletaH&theme=gruvbox)
 
-<a href="https://github.com/ViyaletaH" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViyaletaH&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViyaletaH&theme=gruvbox)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViyaletaH&theme=gruvbox)
