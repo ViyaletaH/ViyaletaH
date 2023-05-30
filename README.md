@@ -4,6 +4,7 @@
 
 - 🌍  I'm based in Gdansk, Poland (open for relocation)
 - 🖥️  See my portfolio at [Netlify](http://app.netlify.com/teams/viyaletah/sites/)
+- ✨  See the team project, I worked on [here](https://graphiql-auth-3a77c.web.app/)
 - ✉️  You can contact me at [viyaleta.haponava@gmail.com](mailto:viyaleta.haponava@gmail.com)
 
 ## Skills
