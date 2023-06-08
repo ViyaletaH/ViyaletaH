@@ -35,8 +35,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ViyaletaH"><img src="https://github-readme-stats.vercel.app/api?username=ViyaletaH&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="ViyaletaH's GitHub stats" /></a>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViyaletaH&theme=gruvbox)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViyaletaH&theme=gruvbox)
